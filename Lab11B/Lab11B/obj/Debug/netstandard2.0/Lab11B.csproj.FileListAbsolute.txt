@@ -1,0 +1,16 @@
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\bin\Debug\netstandard2.0\Lab11B.deps.json
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\bin\Debug\netstandard2.0\Lab11B.dll
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\bin\Debug\netstandard2.0\Lab11B.pdb
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Views\Operaciones.xaml.g.cs
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.AssemblyInfoInputs.cache
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.AssemblyInfo.cs
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.dll
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\refint\Lab11B.dll
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\Lab11B.pdb
+C:\Users\Robert\source\repos\Lab11B\Lab11B\Lab11B\obj\Debug\netstandard2.0\ref\Lab11B.dll
